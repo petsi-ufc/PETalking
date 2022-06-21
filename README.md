@@ -4,8 +4,7 @@
  
  <h1 align="center"> PETalking – Célula cooperativa de inglês </h1>
  
- #### Com o intuito de promover o estudo cooperativo da língua estrangeira (inglês),  o projeto vem com objetivo de auxiliar o aprendizado e desenvolvimento do inglês, com uma metodologia que compreende dois encontros semanais, 
- que funcionam com rotatividade de atividades. Sendo assim, aqui estaram disponiveis algumas das atividades desenvolvidas nos encontros.
+ #### Com o intuito de promover o estudo cooperativo da língua estrangeira (inglês),  o projeto vem com objetivo de auxiliar o aprendizado e desenvolvimento do inglês, com uma metodologia que compreende dois encontros semanais, que funcionam com rotatividade de atividades. Sendo assim, aqui estaram disponiveis algumas das atividades desenvolvidas nos encontros.
  
  #### 🟪 Sites que são utilizados 
      ◾ Lyrics Training
